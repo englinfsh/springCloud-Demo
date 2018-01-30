@@ -9,3 +9,6 @@
 java -jar eureka-0.0.1.jar
 
 http://slf.eureka.center:9000/
+
+git地址：
+https://github.com/englinfsh/springCloud-Demo.git
